@@ -1,5 +1,6 @@
+// Name: Ameha T
 // Assignment 2
-// Spring 2020
+// CIS 22B
 
 #include <cstdlib>
 #include <cmath>
