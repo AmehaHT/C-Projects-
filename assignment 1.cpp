@@ -1,4 +1,5 @@
-// CIS22B Assignment 1 Solution - Spring 2020
+// Name: Ameha T 
+// CIS 22B 
 
 #include <iostream>
 #include <iomanip>
