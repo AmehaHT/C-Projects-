@@ -1,4 +1,6 @@
-// Assignment 9 
+// Ameha T
+// CIS 22B
+
 
 #include <iostream>
 #include <iomanip>
