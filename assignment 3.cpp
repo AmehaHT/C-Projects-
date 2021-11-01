@@ -1,4 +1,5 @@
-// Assignment 3 Solution - Spring 2020
+// Name: Ameha T 
+// CIS 22B
 
 #include <iostream>
 #include <fstream>
